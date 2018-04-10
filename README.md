@@ -5,9 +5,11 @@ This repository is dedicated to the development of a model for predicting the FI
 
 The main data set for this project is provided through a Kaggle Data set named [International football results from 1872 to 2018](https://www.kaggle.com/martj42/international-football-results-from-1872-to-2017/data).
 
+Additional datasets which may come in handy [European Soccer Database](https://www.kaggle.com/hugomathien/soccer), [World Soccer](https://www.kaggle.com/sashchernuh/european-football/data)
+
 There are five members in the group, namely (in the alphabetical order):
 
-1- [Abhinav]()
+1- [Abhinav](https://github.com/abhinavralhan)
 2- [Amin Ghaderi](https://github.com/amnghd)
 3- [Diehumblex]()
 4- [Eleje Onyedika]()
