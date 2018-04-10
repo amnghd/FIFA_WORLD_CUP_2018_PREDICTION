@@ -11,7 +11,7 @@ There are five members in the group, namely (in the alphabetical order):
 2- [Amin Ghaderi](https://github.com/amnghd)
 3- [Diehumblex]()
 4- [Eleje Onyedika]()
-5- [Marlysson]()
+5- [Marlysson](https://github.com/Marlysson)
 
 # Project Outlines:
 
