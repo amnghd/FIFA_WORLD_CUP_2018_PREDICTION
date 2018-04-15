@@ -44,3 +44,9 @@ The following could be our schedule:
 ``week6,7``: ensembling (group work, to stack the models and get the final result)
 
 ``week8,9``: (optional) writing a notebook and presenting the results
+
+
+
+# Project Progress
+
+--- Data bases are saved and imported to the notebook as dataframes, Saturday 4/14/2018 , AG
