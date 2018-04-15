@@ -1,19 +1,24 @@
 # Predicting FIFA World Cup 2018
 
+This repository is dedicated to the development of a model for predicting the FIFA World Cup 2018 to be held in June-July 2018.
 
-This repository is dedicated to the development of a model for predicting the FIFA wolrd cup 2018 to be held in June-July 2018.
+## Datasets
 
-The main data set for this project is provided through a Kaggle Data set named [International football results from 1872 to 2018](https://www.kaggle.com/martj42/international-football-results-from-1872-to-2017/data).
+- [International football results from 1872 to 2018](https://www.kaggle.com/martj42/international-football-results-from-1872-to-2017/data) ( **Main dataset** )
+    > All matches from international football results from 1872 to 2018 with nearly 40,000 international football results
+-  [European Soccer Database](https://www.kaggle.com/hugomathien/soccer)
+    > 25k+ matches, players & teams attributes for European Professional Football
+- [World Soccer](https://www.kaggle.com/sashchernuh/european-football/data)
+    > World Soccer - archive of soccer results and odds. 20+ countries, 16 seasons, 30+ leagues, 130k+ matches with bookies odds
 
-Additional datasets which may come in handy [European Soccer Database](https://www.kaggle.com/hugomathien/soccer), [World Soccer](https://www.kaggle.com/sashchernuh/european-football/data)
 
 There are five members in the group, namely (in the alphabetical order):
 
-1- [Abhinav](https://github.com/abhinavralhan)
-2- [Amin Ghaderi](https://github.com/amnghd)
-3- [Diehumblex]()
-4- [Eleje Onyedika]()
-5- [Marlysson](https://github.com/Marlysson)
+1. [Abhinav](https://github.com/abhinavralhan)
+2. [Amin Ghaderi](https://github.com/amnghd)
+3. [Diehumblex]()
+4. [Eleje Onyedika]()
+5. [Marlysson](https://github.com/Marlysson)
 
 # Project Outlines:
 
@@ -35,18 +40,17 @@ The followings can be the possible goals of working on this model:
 There is about 9 weeks untill the kick off.
 The following could be our schedule:
 
-``week1`` : formulating the challenge into a machine learning problem (group work)
+``Week 1`` : formulating the challenge into a machine learning problem (group work)
 
-``week2,3`` : data acquisition (independantly, with talk over the available data)
+``Week 2-3`` : data acquisition (independantly, with talk over the available data)
 
-``week4,5`` : modelling (this will be done independantly, to assure to have all the unique ideas)
+``Week 4-5`` : modelling (this will be done independantly, to assure to have all the unique ideas)
 
-``week6,7``: ensembling (group work, to stack the models and get the final result)
+``Week 6-7``: ensembling (group work, to stack the models and get the final result)
 
-``week8,9``: (optional) writing a notebook and presenting the results
-
+``Week 8-9``: (optional) writing a notebook and presenting the results
 
 
 # Project Progress
 
---- Data bases are saved and imported to the notebook as dataframes, Saturday 4/14/2018 , AG
+- [ x ] Data bases are saved and imported to the notebook as dataframes, Saturday 4/14/2018 ( **Amin Ghaderi** )
