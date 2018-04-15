@@ -54,3 +54,4 @@ The following could be our schedule:
 # Project Progress
 
 - Data bases are saved and imported to the notebook as dataframes, Saturday 4/14/2018 ( **Amin Ghaderi** )
+- Starting analysis related to win/loses/ties to know if a team is offensive or defensive, Sunday ( **Marlysson Silva** )
