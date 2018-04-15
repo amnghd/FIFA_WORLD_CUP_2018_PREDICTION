@@ -53,4 +53,4 @@ The following could be our schedule:
 
 # Project Progress
 
-- [ x ] Data bases are saved and imported to the notebook as dataframes, Saturday 4/14/2018 ( **Amin Ghaderi** )
+- Data bases are saved and imported to the notebook as dataframes, Saturday 4/14/2018 ( **Amin Ghaderi** )
