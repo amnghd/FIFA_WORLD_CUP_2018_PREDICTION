@@ -10,8 +10,12 @@ This repository is dedicated to the development of a model for predicting the FI
     > 25k+ matches, players & teams attributes for European Professional Football
 - [World Soccer](https://www.kaggle.com/sashchernuh/european-football/data)
     > World Soccer - archive of soccer results and odds. 20+ countries, 16 seasons, 30+ leagues, 130k+ matches with bookies odds
+- [All world cup results](https://www.kaggle.com/abecklas/fifa-world-cup/data)
+    > Results of all World Cup since 1930
 
-
+- [Fifa game players attributes dataset](https://www.kaggle.com/thec03u5/fifa-18-demo-player-dataset/data)
+    > Dataset of all players's FIFA SOCCER 18 game
+    
 There are five members in the group, namely (in the alphabetical order):
 
 1. [Abhinav](https://github.com/abhinavralhan)
