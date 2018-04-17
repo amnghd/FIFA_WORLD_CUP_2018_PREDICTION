@@ -60,3 +60,4 @@ The following could be our schedule:
 - Data bases are saved and imported to the notebook as dataframes, Saturday 4/14/2018 ( **Amin Ghaderi** )
 - Starting analysis related to win/loses/ties to know if a team is offensive or defensive, Sunday ( **Marlysson Silva** )
 - Added win/lose ratio column and normalized the columns. Also added a column for continents. However, continent columns requires ome manual correction, Monday 4/16/2018, (**Amin Ghaderi**)
+- Performed EDA on the FIFA 18 Complete Player Dataset. Engineered 8 features using the player age, value, and overal strength (**Amin Ghaderi**)
